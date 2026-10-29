@@ -1,5 +1,4 @@
 pessoa
-cabelo loiro
-pé
-corpo
-cabeça
+cabelo castanho 
+corpo bonito
+coração de carne
